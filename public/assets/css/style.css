@@ -1,0 +1,64 @@
+body {
+  /*background-image: url(../img/rothko_blueandgrey1962_l.jpg);*/
+  /*background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;*/
+  /*background-color: #000066;*/
+  background-color: #010132;
+  font-family: 'Signika', sans-serif, "Helvetica Neue", Helvetica, Arial;
+  font-size: 18px;
+  line-height: 1.846;
+  color: #666666;
+  /*materialize sticky footer css*/
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer.page-footer {
+  /*background-color: transparent;*/
+  /*background-color: #000066;*/
+  background-color: #010132;
+  color: #fff;
+}
+
+nav {
+  /*background-color: transparent;*/
+  /*background-color: #000066;*/
+  background-color: #010132;
+}
+
+.card-panel {
+  /*background-color: transparent;*/
+  /*background-color: #000066;*/
+  background-color: #010132;
+}
+
+p {
+  color: white;
+  font-size: 18px;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+.card {
+  background-color: #64686d;
+}
+
+.card-reveal p {
+  color: black;
+}
