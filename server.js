@@ -50,8 +50,8 @@ db.once("open", function(){
 
 // ROUTES
 // ===========================================================================
-var routes = require('./controllers/controller.js');
-app.use('/', routes);
+// var routes = require('./controllers/controller.js');
+// app.use('/', routes);
 
 // Starts the server to begin listening
 // ===========================================================================

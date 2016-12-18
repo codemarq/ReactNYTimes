@@ -1,6 +1,5 @@
 import React from "react";
 // Import sub-components
-import Form from "./children/Form";
 import Results from "./children/Results";
 import Saved from "./children/Saved";
 import Search from "./children/Search";
